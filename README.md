@@ -39,7 +39,7 @@ This directory contains **supporting utility code** used by the training script 
 Typical responsibilities include:
 - helper functions
 - shared logic required by the training workflow
-- 
+
 ---
 
 ## Usage Scope
